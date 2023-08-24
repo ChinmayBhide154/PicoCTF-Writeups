@@ -1,0 +1,1 @@
+Use this website, and paste the encrypted text. +8 cypher used: https://www.dcode.fr/rot-cipher
